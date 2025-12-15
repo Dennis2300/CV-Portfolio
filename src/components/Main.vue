@@ -71,8 +71,8 @@
             <div class="w-3/4 flex flex-col justify-center">
               <h1 class="text-2xl">Photography</h1>
               <p class="pr-6">
-                I enjoy capturing moments while traveling, turning the beauty of
-                new places into memorable photographs.
+                I enjoy capturing moments while traveling, turning them into
+                memorable photographs.
               </p>
             </div>
           </div>
