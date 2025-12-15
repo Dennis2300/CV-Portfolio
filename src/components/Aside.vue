@@ -26,7 +26,7 @@
       </div>
       <div>
         <h2 class="text-sm opacity-70">Socials</h2>
-        <div class="flex gap-4">
+        <div class="flex gap-4 flex-row justify-between">
           <strong>Twitter</strong>
           <strong>Instagram</strong>
           <strong>LinkedIn</strong>
