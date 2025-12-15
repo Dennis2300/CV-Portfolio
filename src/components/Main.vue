@@ -42,10 +42,10 @@
         <h1 class="text-3xl">What I'm doing</h1>
         <div class="grid grid-cols-2 gap-4 mt-2">
           <div class="bg-gray-800 h-[150px] w-full flex rounded-2xl">
-            <div class="w-1/3 flex justify-center items-center">
+            <div class="w-1/4 flex justify-center items-center">
               <img class="w-16" src="./../assets/vue.svg" alt="" />
             </div>
-            <div class="w-2/3 flex flex-col justify-center">
+            <div class="w-3/4 flex flex-col justify-center">
               <h1 class="text-2xl">Web Development</h1>
               <p class="pr-6">
                 Mainly using Vue.js framework for all my projects.
@@ -53,10 +53,10 @@
             </div>
           </div>
           <div class="bg-gray-800 h-[150px] w-full flex rounded-2xl">
-            <div class="w-1/3 flex justify-center items-center">
+            <div class="w-1/4 flex justify-center items-center">
               <img class="w-16" src="./../assets/database.svg" alt="" />
             </div>
-            <div class="w-2/3 flex flex-col justify-center">
+            <div class="w-3/4 flex flex-col justify-center">
               <h1 class="text-2xl">Basic Database Design</h1>
               <p class="pr-6">
                 Mainly used Supabase, but eager to learn more advanced database
@@ -65,10 +65,10 @@
             </div>
           </div>
           <div class="bg-gray-800 h-[150px] w-full flex rounded-2xl">
-            <div class="w-1/3 flex justify-center items-center">
+            <div class="w-1/4 flex justify-center items-center">
               <img class="w-16" src="./../assets/photo-camera.svg" alt="" />
             </div>
-            <div class="w-2/3 flex flex-col justify-center">
+            <div class="w-3/4 flex flex-col justify-center">
               <h1 class="text-2xl">Photography</h1>
               <p class="pr-6">
                 I enjoy capturing moments while traveling, turning the beauty of
@@ -79,11 +79,28 @@
         </div>
         <h1 class="text-3xl mt-10">What i'm learning or want to learn</h1>
         <div class="grid grid-cols-2 gap-4">
-          <div class="bg-red-900 h-[150px]">
-            <h1>Video Game Development</h1>
+          <div class="bg-gray-800 h-[150px] w-full flex rounded-2xl">
+            <div class="w-1/4 flex justify-center items-center">
+              <img class="w-16" src="./../assets/joystick.svg" alt="" />
+            </div>
+            <div class="w-3/4 flex flex-col justify-center">
+              <h1 class="text-2xl">Video Game Development</h1>
+              <p class="pr-6">
+                I would love to create or be part of video game creation
+              </p>
+            </div>
           </div>
-          <div class="bg-red-900 h-[150px]">
-            <h1>Blender 3D Design</h1>
+          <div class="bg-gray-800 h-[150px] w-full flex rounded-2xl">
+            <div class="w-1/4 flex justify-center items-center">
+              <img class="w-16" src="./../assets/database.svg" alt="" />
+            </div>
+            <div class="w-3/4 flex flex-col justify-center">
+              <h1 class="text-2xl">Advanced Database Design</h1>
+              <p class="pr-6">
+                I like to work with data, so I would love to expand my knowledge
+                in database design.
+              </p>
+            </div>
           </div>
         </div>
       </div>
