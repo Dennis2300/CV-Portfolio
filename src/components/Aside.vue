@@ -1,6 +1,6 @@
 <template>
   <aside
-    class="md:w-1/4 w-full h-[550px] bg-[#393E46] text-[#D3DAD9] border-1 border-[#DFD0B8] rounded-xl p-4 flex flex-col"
+    class="md:w-1/4 w-full h-[550px] bg-(--primary-color) text-(--quaternary-color) border-1 border-(--tertiary-color) rounded-xl p-4 flex flex-col"
   >
     <div class="flex flex-col items-center gap-4">
       <img
@@ -13,7 +13,7 @@
     <div class="divider my-4"></div>
     <div class="flex flex-col gap-6 flex-grow">
       <div>
-        <img src="" alt="">
+        <img src="" alt="" />
         <div>
           <h2 class="text-sm opacity-70">Email</h2>
           <strong>denniszixiang@gmail.com</strong>

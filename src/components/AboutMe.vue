@@ -1,7 +1,9 @@
 <template>
-  <div class="px-8">
-    <h1 class="text-3xl">About Me</h1>
-    <div class="divider w-[50px]"></div>
+  <div class="px-8 text-(--quaternary-color)">
+    <h1 class="text-5xl">About Me</h1>
+    <div
+      class="divider w-[50px] before:bg-(--secondary-color) after:bg-(--secondary-color)"
+    ></div>
     <div class="flex flex-col gap-4">
       <p>
         I am a student with a strong interest in programming, currently pursuing
@@ -26,9 +28,11 @@
     </div>
     <div class="mt-10">
       <h1 class="text-3xl">What I'm doing</h1>
-      <div class="divider mt-0"></div>
+      <div
+        class="divider mt-0 before:bg-(--secondary-color) after:bg-(--secondary-color)"
+      ></div>
       <div class="grid grid-cols-2 gap-4 mt-2">
-        <div class="bg-[#222831] h-[150px] w-full flex rounded-2xl">
+        <div class="bg-(--bg-color) h-[150px] w-full flex rounded-2xl">
           <div class="w-1/4 flex justify-center items-center">
             <img class="w-16" src="./../assets/vue.svg" alt="" />
           </div>
@@ -39,7 +43,7 @@
             </p>
           </div>
         </div>
-        <div class="bg-[#222831] h-[150px] w-full flex rounded-2xl">
+        <div class="bg-(--bg-color) h-[150px] w-full flex rounded-2xl">
           <div class="w-1/4 flex justify-center items-center">
             <img class="w-16" src="./../assets/database.svg" alt="" />
           </div>
@@ -51,7 +55,7 @@
             </p>
           </div>
         </div>
-        <div class="bg-[#222831] h-[150px] w-full flex rounded-2xl">
+        <div class="bg-(--bg-color) h-[150px] w-full flex rounded-2xl">
           <div class="w-1/4 flex justify-center items-center">
             <img class="w-16" src="./../assets/photo-camera.svg" alt="" />
           </div>
@@ -65,9 +69,11 @@
         </div>
       </div>
       <h1 class="text-3xl mt-10">What i'm learning or want to learn</h1>
-      <div class="divider mt-0"></div>
+      <div
+        class="divider mt-0 before:bg-(--secondary-color) after:bg-(--secondary-color)"
+      ></div>
       <div class="grid grid-cols-2 gap-4">
-        <div class="bg-[#222831] h-[150px] w-full flex rounded-2xl">
+        <div class="bg-(--bg-color) h-[150px] w-full flex rounded-2xl">
           <div class="w-1/4 flex justify-center items-center">
             <img class="w-16" src="./../assets/joystick.svg" alt="" />
           </div>
@@ -76,7 +82,7 @@
             <p class="pr-6">I’m curious about 3D and environment design.</p>
           </div>
         </div>
-        <div class="bg-[#222831] h-[150px] w-full flex rounded-2xl">
+        <div class="bg-(--bg-color) h-[150px] w-full flex rounded-2xl">
           <div class="w-1/4 flex justify-center items-center">
             <img class="w-16" src="./../assets/database.svg" alt="" />
           </div>
@@ -88,7 +94,7 @@
             </p>
           </div>
         </div>
-        <div class="bg-[#222831] h-[150px] w-full flex rounded-2xl">
+        <div class="bg-(--bg-color) h-[150px] w-full flex rounded-2xl">
           <div class="w-1/4 flex justify-center items-center">
             <img class="w-16" src="./../assets/teamwork.svg" alt="" />
           </div>
