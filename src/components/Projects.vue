@@ -17,12 +17,13 @@
     ></div>
     <div class="flex flex-col gap-10 w-full">
       <div class="bg-(--bg-color) h-[250px] rounded-xl">
-        <img src="https://placehold.co/856x100" alt="" class="rounded-t-xl" />
+        <img src="./../assets/Screenshot 2025-12-17 at 18.42.19.png" alt="" class="rounded-t-xl" />
         <div class="px-4 pt-4">
           <h1 class="text-3xl">Vision Forge</h1>
           <h2 class="text-(--tertiary-color)">
-            A visual Guide for the video game, Genshin Impact.
+            A visual Guide for the video game, Genshin Impact. (in beta)
           </h2>
+          <a href="">Github Project Repo</a>
         </div>
       </div>
       <div class="bg-(--bg-color) h-[250px] rounded-xl">
