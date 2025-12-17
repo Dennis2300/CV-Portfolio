@@ -13,15 +13,26 @@
       </p>
     </div>
     <div
-      class="divider before:bg-(--secondary-color) after:bg-(--secondary-color)"
+      class="divider mb-10 before:bg-(--secondary-color) after:bg-(--secondary-color)"
     ></div>
-    <div class="flex flex-col gap-4 w-full">
-      <div class="bg-(--bg-color) h-[200px]">
-        <img src="https://placehold.co/856x100" alt="">
-        <h1>Project here!</h1>
+    <div class="flex flex-col gap-10 w-full">
+      <div class="bg-(--bg-color) h-[250px] rounded-xl">
+        <img src="https://placehold.co/856x100" alt="" class="rounded-t-xl" />
+        <div class="px-4 pt-4">
+          <h1 class="text-3xl">Vision Forge</h1>
+          <h2 class="text-(--tertiary-color)">
+            A visual Guide for the video game, Genshin Impact.
+          </h2>
+        </div>
       </div>
-      <div class="bg-(--bg-color) h-[200px]">
-        <h1>Project here!</h1>
+      <div class="bg-(--bg-color) h-[250px] rounded-xl">
+        <img src="https://placehold.co/856x100" alt="" class="rounded-t-xl" />
+        <div class="px-4 pt-4">
+          <h1 class="text-3xl">Photography Portfolio</h1>
+          <h2 class="text-(--tertiary-color)">
+            A website to show my photography and maybe sell photos.
+          </h2>
+        </div>
       </div>
     </div>
   </div>

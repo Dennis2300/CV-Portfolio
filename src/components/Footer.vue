@@ -1,6 +1,6 @@
 <template>
   <footer
-    class="footer sm:footer-horizontal bg-(--tertiary-color) text-(--bg-color) items-center p-4"
+    class="footer sm:footer-horizontal bg-(--primary-color) text-(--quaternary-color) items-center p-4"
   >
     <aside class="grid-flow-col items-center">
       <svg
